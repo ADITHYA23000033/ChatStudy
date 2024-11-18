@@ -1,7 +1,7 @@
 # Ex. No:1b 			Study of Client Server Chat Applications
 
-## Developed by : ADITHYA V
-## Register no: 212223110001
+## NAME : ADITHYA V
+## REG NO: 212223110001
 
 ## Aim: 
 To perform a study on Client Server Chat Applications
